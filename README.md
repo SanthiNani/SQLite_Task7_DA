@@ -143,4 +143,5 @@ ORDER BY total_revenue DESC;
 
 **Santhi Raju Peddapati**
 B.Tech in CSE (AI & ML)
+
 (https://github.com/SanthiNani)
